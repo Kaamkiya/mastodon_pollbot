@@ -1,7 +1,7 @@
 """
 Mastodon poll bot
 
-Posts random polls to https://mastodon.bot/@polls
+Posts random polls to https://botsin.space/@random_polls
 """
 
 import os
@@ -10,7 +10,7 @@ import random
 
 from mastodon import Mastodon
 
-m = Mastodon(api_base_url="https://mastodon.bot",
+m = Mastodon(api_base_url="https://botsin.space",
              access_token=os.getenv("MASTODON_ACCESS_TOKEN"))
 
 with open("polls.json", "r", encoding="utf-8") as f:
