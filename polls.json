@@ -74,6 +74,11 @@
       "id": "14",
       "question": "If you could never use one of these again, which would it be?",
       "options": ["Paperclip", "Sticky note", "Pen", "Scissors"]
+    },
+    {
+      "id": "15",
+      "question": "What;s your favorite way to get around?",
+      "options": ["My own two feet", "A bicycle", "Public transport", "A car"]
     }
   ],
   "used": [
