@@ -19,7 +19,7 @@ with open("polls.json", "r", encoding="utf-8") as f:
 used_polls = polls["used"]
 
 while True:
-    poll = random.choice(polls)
+    poll = random.choice(polls["polls"])
     if poll["id"] not in used_polls:
         break
 
