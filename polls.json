@@ -4,7 +4,79 @@
       "id": "0",
       "question": "Does pineapple belong on pizza?",
       "options": ["Yes", "No"]
+    },
+    {
+      "id": "1",
+      "question": "Are you an early bird or a night owl?",
+      "options": ["Early bird", "Night owl"]
+    },
+    {
+      "id": "2",
+      "question": "If age was only a state of mind, which age are you right now?",
+      "options": ["Cheeky child", "Tormented teenager", "Mad mid-lifer", "Groovy grandparent"]
+    },
+    {
+      "id": "3",
+      "question": "What do you do when walking by something reflective?",
+      "options": ["Check to see if I'm being stalked", "Check myself out", "Contemplate the meaning of life", "Other/Nothing"]
+    },
+    {
+      "id": "4",
+      "question": "Waffles or pancakes?",
+      "options": ["Waffles", "Pancakes", "They're both gross"]
+    },
+    {
+      "id": "5",
+      "question": "Would you rather have a time machine that can only go back in time or only forward?",
+      "options": ["Back in time", "To the future", "I'm happy here and now"]
+    },
+    {
+      "id": "6",
+      "question": "Do you multitask when in a meeting online?",
+      "options": ["Yes, I'm guilty", "No, I'm laser focused", "My mind tends to wander", "Sometimes"]
+    },
+    {
+      "id": "7",
+      "question": "What's your favorite season?",
+      "options": ["Winter", "Spring", "Summer", "Fall"]
+    },
+    {
+      "id": "8",
+      "question": "What's the best type of donut?",
+      "options": ["Glazed", "Chocolate", "Jelly", "Sprinkles"]
+    },
+    {
+      "id": "9",
+      "question": "Which mythical creature would make the best pet?",
+      "options": ["Dragon", "Unicorn", "Fairy", "Other/Nothing (comment)"]
+    },
+    {
+      "id": "10",
+      "question": "How many phone numbers do you have memorized?",
+      "options": ["<3", "4-7", "8-10", "10+"]
+    },
+    {
+      "id": "11",
+      "question": "Which of these is the most annoying?",
+      "options": ["Eating with mouth open", "Loud phone call in public", "Slow sidewalk walking", "interrupting conversations"]
+    },
+    {
+      "id": "12",
+      "question": "English speakers, is there a language you prefer to English?",
+      "options": ["Yes! (comment)", "No, I don't know any others", "No, it's the best"]
+    },
+    {
+      "id": "13",
+      "question": "Are you",
+      "options": ["The oldest child", "The youngest child", "Middle child", "Only child"]
+    },
+    {
+      "id": "14",
+      "question": "If you could never use one of these again, which would it be?",
+      "options": ["Paperclip", "Sticky note", "Pen", "Scissors"]
     }
   ],
-  "used": []
+  "used": [
+    "0"
+  ]
 }
