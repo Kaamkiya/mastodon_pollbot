@@ -1,0 +1,10 @@
+{
+  "polls": [
+    {
+      "id": "0",
+      "question": "Does pineapple belong on pizza?",
+      "options": ["Yes", "No"]
+    }
+  ],
+  "used": []
+}
